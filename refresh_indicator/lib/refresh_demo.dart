@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:async';
 import 'dart:convert';
 
-class RefreshDemo extends StatefulWidget {
+ 
   _RefreshDemoState createState() => _RefreshDemoState();
 }
 
